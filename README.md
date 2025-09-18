@@ -89,7 +89,7 @@ TravelTide-Customer-Segmentation/
 
 ---
 
-## 📬 Author
+##  Author
 **Tigist Hayilemariyam**  
   
   
